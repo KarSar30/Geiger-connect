@@ -49,3 +49,4 @@ Currently, the project is in its exciting "first steps" phase. I have developed 
 This project is fully open for suggestions! If you have ideas for improving the app or the electronics, feel free to open an **Issue** or submit a **Pull Request**. Let's make radiation safety accessible to everyone!
 
 ![App Preview](assets/screen.jpg)
+<img src="assets/screen.jpg" width="300">
