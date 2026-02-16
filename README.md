@@ -1,5 +1,9 @@
 # GeigerConnect ☢️
 
+<p align="center">
+  <img src="assets/screen.jpg" width="300">
+</p>
+
 **GeigerConnect** is an open-source project dedicated to creating an affordable, portable dosimeter that turns your smartphone into a powerful radiation mapping tool.
 
 ### 📖 About the Project
