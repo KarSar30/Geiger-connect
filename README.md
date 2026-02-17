@@ -51,7 +51,7 @@ This project is fully open for suggestions! If you have ideas for improving the 
 
 ## 👥 Contributors
 
-This project is developed and maintained by **KarSar30** and **[Areg Danagoulian (ustajan)](https://github.com)**.
+This project is developed and maintained by **KarSar30** and **[Areg Danagoulian (ustajan)](https://github.com/ustajan)**.
 
 Our mission is to create a transparent, high-precision tool for crowdsourced radiation mapping, enabling global community-driven environmental monitoring.
 
